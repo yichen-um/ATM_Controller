@@ -1,13 +1,14 @@
 # ATM_Controller
 
-## How to compile and run
+### Step 1. Clone the repo to your local computer
 
-mkdir build
+### Step 2. Compile and run the main program.
+1. mkdir build
+2. cd build
+3. cmake ..
+4. make
+5. /main
 
-cd build
+### Step 3. Operate with the instructions.
+A illustration is provided in the screenshot. 
 
-cmake ..
-
-make
-
-./main
