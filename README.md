@@ -12,5 +12,5 @@
 ### Step 3. Operate with the instructions.
 A illustration is provided in the screenshot. 
 
-![Image of operation]
-(/https://github.com/yichen-um/ATM_Controller/blob/master/figures/screen_shot.png)
+![alt text](https://github.com/yichen-um/ATM_Controller/blob/master/figures/screen_shot.png)
+
