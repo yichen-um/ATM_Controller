@@ -13,4 +13,4 @@
 A illustration is provided in the screenshot. 
 
 ![Image of operation]
-(https://github.com/yichen-um/ATM_Controller/blob/master/figures/screen_shot.png)
+(/https://github.com/yichen-um/ATM_Controller/blob/master/figures/screen_shot.png)
